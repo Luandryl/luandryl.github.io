@@ -1,0 +1,35 @@
+- slug: ubuntu
+  name: Ubuntu
+
+- slug: dicas
+  name: Dicas
+
+- slug: dev
+  name: Dev
+
+- slug: filme
+  name: Filme
+
+- slug: nerd
+  name: Nerd
+
+- slug: opiniao
+  name: Opinião
+
+- slug: roots
+  name: Roots
+
+- slug: web
+  name: Web
+
+- slug: ideias
+  name: Ideias
+
+- slug: organizacao
+  name: Organização
+
+- slug: gerencia
+  name: Gerência
+
+- slug: comunicacao
+  name: Cominicação
